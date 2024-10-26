@@ -205,7 +205,7 @@ class Interface(Entity):
             "PLAYSTAR",
             parent=self,
             color=color.white,
-            font="assets/fonts/Good_Timing/good timing bd.otf",
+            font="assets/fonts/Audiowide/Audiowide-Regular.ttf",
             scale=15,
             position=(-6.5,3.9)
         )
